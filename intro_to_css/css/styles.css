@@ -14,76 +14,13 @@ img {
     border: 2px solid black;
     padding: 20px;
 }
-#nav {
-    background-color: white;
-    width: 1200px;
-    margin: 20px auto;
-    border: 2px solid black;
-    padding: 20px;
-}
-#facts {
-    background-color: white;
-    width: 1200px;
-    margin: 20px auto;
-    border: 2px solid black;
-    padding: 20px;
-}
-#questions {
-    background-color: white;
-    width: 1200px;
-    margin: 20px auto;
-    border: 2px solid black;
-    padding: 20px;
-}
-#footer {
-    background-color: white;
-    width: 1200px;
-    margin: 20px auto;
-    border: 2px solid black;
-    padding: 20px;
-}
 #header2 {
     background-color: white;
     width: 1200px;
     margin: 20px auto;
     border: 2px solid black;
     padding: 20px;
-}
-#introduction {
-    background-color: white;
-    width: 1200px;
-    margin: 20px auto;
-    border: 2px solid black;
-    padding: 20px;
-}
-#about {
-    background-color: white;
-    width: 1200px;
-    margin: 20px auto;
-    border: 2px solid black;
-    padding: 20px;
-}
-#facts2 {
-    background-color: white;
-    width: 1200px;
-    margin: 20px auto;
-    border: 2px solid black;
-    padding: 20px;
-    
-}
-#gallery1 {
-    background-color: white;
-    width: 1200px;
-    margin: 20px auto;
-    border: 2px solid black;
-    padding: 20px;
-}
-#findmore1 {
-    background-color: white;
-    width: 1200px;
-    margin: 20px auto;
-    border: 2px solid black;
-    padding: 20px;
+
 }
 nav {
     text-align: center;

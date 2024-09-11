@@ -1,0 +1,74 @@
+body {
+    background-color: pink;
+
+}
+img {
+    display: block;
+    margin: 20px auto;
+    width: 600px;
+}
+#container {
+    background-color: white;
+    width: 65%;
+    margin: 20px auto;
+    border: 2px solid black;
+    padding: 20px;
+}
+#banner {
+    width:50%
+}
+.heading_style {
+    display: block;
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.photo_gallery {
+    width: 25%
+}
+.baby_baby {
+    width: 50%
+}
+nav {
+    text-align: center;
+    margin: 20px 0;
+    background-color: pink;
+    border-radius: 20px;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+}
+nav li a {
+    display: block;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0 20px;
+    width: 175px;
+    height: 40px;
+    line-height: 20px;
+}
+nav a:hover {
+    background-color: white;
+    color: black;
+}
+
+header {
+    text-align: center;
+    margin: 1px 0;
+}
+main {
+    text-align: center;
+    margin: 1px 0;
+}
+footer {
+    text-align: center;
+    margin: 1px 0;
+}
