@@ -74,7 +74,10 @@ header {
     text-align: center;
     margin: 1px 0;
 }
-main {
+#main {
+    text-align: center;
+}
+#column2{
     text-align: center;
     margin: 1px 0;
     display: flex;
